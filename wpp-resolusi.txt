@@ -3,4 +3,5 @@ WPP Resolusi
 ~ Membuat sebuah Web profile / portfolio
 ~ Membuat sebuah Web yang berguna
 ~ Membuat sebuah web untuk activity daily
-~ Membuat web dengan API 
+~ Mempelajari CI 4 dan Yii 2
+~ Memperdalami tentang API
