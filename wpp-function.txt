@@ -1,0 +1,3 @@
+Rencana Function
+~ Membuat function function yang umum dipakai oleh web programmer
+~ membuat function javascript
