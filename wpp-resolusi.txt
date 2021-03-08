@@ -2,3 +2,5 @@ WPP Resolusi
 ~ Konsisten Untuk mencari knowledge
 ~ Membuat sebuah Web profile / portfolio
 ~ Membuat sebuah Web yang berguna
+~ Membuat sebuah web untuk activity daily
+~ Membuat web dengan API 
